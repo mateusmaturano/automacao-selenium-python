@@ -11,7 +11,7 @@ Para isso, vamos criar uma automação web:
 
 Usaremos o selenium com webdriver
 
-### Web Automation and Information Search with Python
+# Web Automation and Information Search with Python
 ### Challenge:
 We work in an import company and the price of our products is linked to the quotation of:
 
