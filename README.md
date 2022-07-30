@@ -9,7 +9,7 @@ Precisamos pegar na internet, de forma automática, a cotação desses 3 itens e
 
 Para isso, vamos criar uma automação web:
 
-Usaremos o selenium com webdriver
+Usaremos o **selenium com webdriver**
 
 # Web Automation and Information Search with Python
 ### Challenge:
@@ -22,4 +22,4 @@ We need to get on the internet, automatically, the quotation of these 3 items an
 
 To do this, we will create a web automation:
 
-We will use selenium with webdriver
+We will use **selenium with webdriver**
